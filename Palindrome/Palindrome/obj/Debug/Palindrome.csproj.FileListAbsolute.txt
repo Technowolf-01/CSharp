@@ -1,0 +1,7 @@
+D:\GIT\Codes\CSharp\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+D:\GIT\Codes\CSharp\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+D:\GIT\Codes\CSharp\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+D:\GIT\Codes\CSharp\Palindrome\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+D:\GIT\Codes\CSharp\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\GIT\Codes\CSharp\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+D:\GIT\Codes\CSharp\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
