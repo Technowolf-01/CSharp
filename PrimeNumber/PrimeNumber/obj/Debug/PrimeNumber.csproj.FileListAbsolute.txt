@@ -1,0 +1,7 @@
+D:\GIT\Codes\CSharp\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\GIT\Codes\CSharp\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\GIT\Codes\CSharp\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\GIT\Codes\CSharp\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+D:\GIT\Codes\CSharp\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\GIT\Codes\CSharp\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\GIT\Codes\CSharp\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
