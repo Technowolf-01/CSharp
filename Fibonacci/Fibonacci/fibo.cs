@@ -14,13 +14,11 @@ namespace Fibonacci
             Console.WriteLine("enter the input");
             n = Convert.ToInt32(Console.ReadLine());
             for(i = 0; i < n; i++)
-            {
-                
+            {                
                 Console.WriteLine(num1);
                 num3 = num1 + num2;
                 num1 = num2;
-                num2 = num3;
-                
+                num2 = num3;               
             }
             Console.ReadLine();
         }
