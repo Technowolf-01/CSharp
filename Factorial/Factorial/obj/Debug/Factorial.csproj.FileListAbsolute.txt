@@ -1,0 +1,7 @@
+D:\GIT\Codes\CSharp\Factorial\Factorial\bin\Debug\Factorial.exe.config
+D:\GIT\Codes\CSharp\Factorial\Factorial\bin\Debug\Factorial.exe
+D:\GIT\Codes\CSharp\Factorial\Factorial\bin\Debug\Factorial.pdb
+D:\GIT\Codes\CSharp\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+D:\GIT\Codes\CSharp\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+D:\GIT\Codes\CSharp\Factorial\Factorial\obj\Debug\Factorial.exe
+D:\GIT\Codes\CSharp\Factorial\Factorial\obj\Debug\Factorial.pdb
